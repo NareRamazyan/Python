@@ -14,7 +14,7 @@ def count_sub_in_str(string_obj, substring):
     return count
 
 string_obj = "hihihihihi"
-substring = "hi"
+substring = "hello"
 
 result = count_sub_in_str(string_obj, substring)
 print(result)
